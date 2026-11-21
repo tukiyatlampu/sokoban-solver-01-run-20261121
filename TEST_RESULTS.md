@@ -19,4 +19,4 @@
 - Zero-fail QA (clean room): PASS — README quick test exits 0 (`uulDD`), full practice run from the clean dir byte-identical to the build machine, no secrets/hardcoded paths (only the public GitHub username in badge URLs).
 
 ## Entry size (grader count: bytes + path, starter-identical files 0)
-- main.ts 4,673 + 7; README.md 1,470 + 9; TEST_RESULTS.md (this file) + 15; .makefun/owner.json 58 + 19; LICENSE 0 (byte-identical to kit starter). Final grade-local: **8,755 counted bytes**.
+- main.ts 4,673 + 7; README.md 1,470 + 9; TEST_RESULTS.md (this file) + 15; .makefun/owner.json 58 + 19; LICENSE 1,094 + 7 (SPDX line added per kit check license_osi). Final grade-local: **8,784 counted bytes**.
